@@ -1,29 +1,21 @@
 {
   "name": "nodejs-webapp",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "description": "A simple Node js Application",
-=======
   "description": "This is my simple nodejs application",
->>>>>>> 1655e16 (pusing nodejs-webapp)
   "main": "server.js",
   "scripts": {
     "test": "mocha"
   },
-<<<<<<< HEAD
-  "author": "Oghenekaro Oboido ooghenekaro@example.com",
-=======
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Miketunzy/nodejs-webapp-1.git"
+    "url": "git+https://github.com/Miketunzy/nodejs-webapp-3.git"
   },
   "author": "Michael Akintujoye",
->>>>>>> 1655e16 (pusing nodejs-webapp)
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Miketunzy/nodejs-webapp-1/issues"
+    "url": "https://github.com/Miketunzy/nodejs-webapp-3/issues"
   },
-  "homepage": "https://github.com/Miketunzy/nodejs-webapp-1#readme",
+  "homepage": "https://github.com/Miketunzy/nodejs-webapp-3#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mocha": "^10.2.0"
